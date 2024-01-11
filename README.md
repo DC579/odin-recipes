@@ -1,1 +1,1 @@
-# odin-recipes
+I've built a simple recipe website with basic html syntax.# odin-recipes
